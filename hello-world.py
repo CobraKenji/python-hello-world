@@ -7,3 +7,4 @@
 
 str = 'world'
 print('Hello, ' + str + '!')
+print('ANOTHER LINE TO PRINT!')
